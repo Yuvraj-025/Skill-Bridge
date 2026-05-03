@@ -1,7 +1,7 @@
 # SkillBridge Attendance Management API
 
 ## 1. Live API Base URL & Deployment Notes
-**Base URL**: `https://skillbridge-api-demo.up.railway.app` *(Placeholder - replace with actual deployed URL once deployed to Railway/Render)*
+**Base URL**: `https://skillbridge-api-h078.onrender.com/docs#/` 
 
 **Deployment Notes**:
 The application is designed to be easily deployable on Railway or Render. 
